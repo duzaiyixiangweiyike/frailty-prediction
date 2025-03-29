@@ -1,0 +1,6 @@
+streamlit==1.32.0  # 支持Python 3.12的最新版
+tensorflow==2.16.1
+scikit-learn==1.4.2
+pandas==2.2.1
+numpy==1.26.4
+shap==0.45.0
