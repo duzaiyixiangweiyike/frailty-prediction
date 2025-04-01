@@ -7,6 +7,9 @@ import shap
 # 在文件开头添加以下代码（在所有import之后）
 from matplotlib import rcParams
 import matplotlib.font_manager as fm
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif'] = ['SimHei']  # 指定默认字体
+plt.rcParams['axes.unicode_minus'] = False    # 解决负号显示问题
 
 # 设置中文字体
 try:
