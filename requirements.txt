@@ -5,4 +5,4 @@ tensorflow>=2.16.1
 numpy>=1.26.4
 pandas>=2.2.1
 matplotlib==3.8.4
-shap==0.42.1
+shap==0.41.0
